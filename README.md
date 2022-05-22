@@ -1,6 +1,8 @@
-# Nix Starter Config
+# Nix Starter Config (Full version)
 
 This is a simple nix flake for getting started with NixOS + home-manager.
+
+**[Looking for the minimal version?](https://github.com/Misterio77/nix-config/tree/minimal)**
 
 # What this provides
 
